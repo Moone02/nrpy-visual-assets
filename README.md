@@ -1,6 +1,6 @@
-# NRPy+ Visual Assets
+# Visual Assets
 
-This repository hosts static binary assets and high-resolution textures utilized by the NRPy+ photon geodesic visualization pipeline.
+This repository hosts static binary assets and high-resolution textures for geodesic visualizations.
 
 ## Image Attribution & Licensing
 
